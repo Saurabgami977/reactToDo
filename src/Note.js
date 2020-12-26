@@ -1,6 +1,6 @@
 import { Button, Card, CardActions, CardContent, makeStyles, Typography } from '@material-ui/core';
-import React from 'react';
 import DeleteIcon from '@material-ui/icons/Delete';
+import React from 'react';
 
 const useStyles = makeStyles({
     root: {
